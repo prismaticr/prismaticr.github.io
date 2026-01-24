@@ -1,2 +1,2 @@
 # prismaticr.github.io
-Senior Project 
+Senior Project: Project Ragnarok
